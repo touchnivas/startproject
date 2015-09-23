@@ -5,5 +5,5 @@ echo $is_http = strpos(trim($http), 'http');
 if($is_http!==FALSE)
 echo "NO HTTP";
 else
-echo "HTTP";
+echo "HTTP12";
 ?>
