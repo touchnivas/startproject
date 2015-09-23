@@ -6,4 +6,5 @@ if($is_http!==FALSE)
 echo "NO HTTP";
 else
 echo "HTTP123";
+echo "feature2";
 ?>
