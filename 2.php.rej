@@ -1,8 +1,0 @@
-diff a/2.php b/2.php	(rejected hunks)
-@@ -2,4 +2,5 @@
- 
-   echo  " releasing";
-   
-+   echo  "testing relasing back";
- ?>
-\ No newline at end of file
